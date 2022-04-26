@@ -13,6 +13,15 @@
 
 
 </div>
+
+<div>
+
+<img align="right" width="300" src="https://cdn.streamelements.com/uploads/2e26b80f-c023-4bff-9aab-03a767f23631.gif" /> <br>
+
+</div>
+
+
+</div>
         
 <p align="left">
   💌 You can find me at: ⤵️
