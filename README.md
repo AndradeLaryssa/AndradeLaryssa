@@ -1,6 +1,6 @@
 ## 👋 I'm Laryssa Andrade
   <li>🎓 Mestrado em Ciência da Computação – Universidade Federal de Sergipe, Brasil (2026 - Momento)
- 🎓 Bacharelado em Ciência da Computação – Universidade Tiradentes, Sergipe, Brasil (2020 - 2024)
+  <li>🎓 Bacharelado em Ciência da Computação – Universidade Tiradentes, Sergipe, Brasil (2020 - 2024)
 
 </p>
 
