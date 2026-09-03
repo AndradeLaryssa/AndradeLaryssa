@@ -1,5 +1,7 @@
 ## 👋 I'm Laryssa Andrade
-  <li>🎓 Computer Science - 5/9
+  <li>🎓 Mestrado em Ciência da Computação – Universidade Federal de Sergipe, Brasil (2026 - Momento)
+ 🎓 Bacharelado em Ciência da Computação – Universidade Tiradentes, Sergipe, Brasil (2020 - 2024)
+
 </p>
 
 <div align="center">
